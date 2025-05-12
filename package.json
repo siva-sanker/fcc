@@ -1,0 +1,11 @@
+{
+  "name": "siva-package",
+  "version": "1.0.0",
+  "description": "learnit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "author": "siva",
+  "license": "ISC"
+}
